@@ -1,5 +1,5 @@
-- 👋 Hi, Florence Taiwo Eromosele
-- 👀 I’m a Data Scientist, i love working on data to uncover hidden trends to make inform business decisions
+- 👋 Hi, I'm Florence Taiwo Eromosele
+- 👀 I’m a Data Scientist, i love working on data to uncover hidden trends, patterns and outliers to make inform business decisions
 - 🌱 I look forward to uploading my projects here
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
